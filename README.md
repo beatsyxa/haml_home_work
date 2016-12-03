@@ -1,4 +1,3 @@
-#Домашнее задание
-##Верстка с использованием языка Haml
-###Задание
-Выполните задание в папке  - ваша задача дублировать верстку с помощью haml. Результат залить на github и прислать ссылку.
+#Верстка с использованием языка Haml
+![](https://github.com/beatsyxa/haml_home_work/blob/master/images/screen1.jpg)
+![](https://github.com/beatsyxa/haml_home_work/blob/master/images/screen2.jpg)
